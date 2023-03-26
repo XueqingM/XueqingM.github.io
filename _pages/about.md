@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 Master of Science in Analytical Chemistry
-Southern University of Science and Technology                                          2020 – Present
+
+Southern University of Science and Technology(SUSTech)&nbsp;&nbsp;&nbsp;&nbsp;2020 – Present
+
 GPA 3.66/4.00
 
 Bachelor of Science in Chemistry
-Southern University of Science and Technology (SUSTech)                                2016 – 2020
+
+Southern University of Science and Technology(SUSTech)&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2020
+
 GPA 3.56/4.00
