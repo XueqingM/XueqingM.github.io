@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xueqing Ma"
 title_separator          : "-"
 name                     : &name "Xueqing Ma"
-description              : &description "Analytical chemistry, functional nanomaterials, photoswitch molecules, chemical and biological sensors, fluorescent probe, fluorescence microscopy "
+description              : &description "Analytical chemistry, functional nanomaterials, photoswitch molecules"
 url                      : https://xueqingm.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueqingM/XueqingM.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xueqing Ma"
   avatar           : "profile.png"
-  bio              : "Analytical chemistry, functional nanomaterials, photoswitch molecules, chemical and biological sensors, fluorescent probe, fluorescence microscopy "
-  location         : "No. 1088 Xueyuan Avenue\nNanshan District Shenzhen\nGuangdong, China"
+  bio              : "Analytical chemistry, functional nanomaterials, photoswitch molecules"
+  location         : "Shenzhen, China"
 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
