@@ -83,7 +83,10 @@ author:
   name             : "Xueqing Ma"
   avatar           : "profile.png"
   bio              : "Analytical chemistry, functional nanomaterials, photoswitch molecules, chemical and biological sensors, fluorescent probe, fluorescence microscopy "
-  location         : "No. 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China"
+  location         : "No. 1088 Xueyuan Avenue"
+  location         : "Nanshan District Shenzhen"
+  location         : "Guangdong, China"
+
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
