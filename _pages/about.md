@@ -12,10 +12,10 @@ Master of Science in Analytical Chemistry
 
 Southern University of Science and Technology(SUSTech)&nbsp;&nbsp;&nbsp;&nbsp;2020 – Present
 
-GPA 3.66/4.00
+3.66/4.00
 
 Bachelor of Science in Chemistry
 
 Southern University of Science and Technology(SUSTech)&nbsp;&nbsp;&nbsp;&nbsp;2016 – 2020
 
-GPA 3.56/4.00
+3.56/4.00
