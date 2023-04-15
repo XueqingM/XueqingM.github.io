@@ -15,7 +15,7 @@ author_profile: true
 Photochromic molecules as sensing component have the advantage of providing more recognition sites and sensing information. Based on photoswitchable naphthopyrans (NP), we developed a photoactive GSH nanosenor and a probe for induction of intracellular reductive stress. The principle of the GSH nanosenor is shown in Figure 1a. Photoswitch-mediated fluorescence resonance energy transfer (FRET) strongly occurs between open-form NP and signal fluorophores inside the nanoparticle. The nucleophilic GSH selectively undergo Michael addition reaction with open-form NP and results in fluorescence turn-on upon UV irradiation. This nanosensor has reversible response to GSH with 0-1 mM concentration range. The response to GSH was found to be highly selective over a range of ROS, RNS, RSS, and common biological anions.
 
 <div style="text-align: center;">
-    <img src="/images/image1.1png" alt="图片" width="80%" height="auto">
+    <img src="/images/image1.1.png" alt="图片" width="80%" height="auto">
 </div>
 
 <small>Fig 2. (a) The photoactivatable probe. (b) Fluorescence emission spectra of probe before (black line) and after (red line) reacts with 1 mM GSH in DMSO-H2O. (c) Evolution of absorbance at λmax of the probe upon UV activation at different target GSH concentrations (0, 20, 50, 100, 200, 500, 1000 μM). (d) Confocal laser scanning microscopy (CLSM) imaging of RAW 264.7 cells labeled with/without the probe and dihydroethidium before and after stimulated by UV irradiation for 3 min.</small>
