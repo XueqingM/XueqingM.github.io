@@ -7,7 +7,7 @@ author_profile: true
 
 ## Photoactivatable Probe for Induction of Intracellular Reductive Stress
 <div style="text-align: center;">
-    <img src="/images/image1.png" alt="图片" width="80%" height="auto">
+    <img src="/images/image1.png" alt="图片" width="50%" height="auto">
 </div>
 
 <small>Fig 1. (a) Principle of the nanosensor for GSH detection. (b) Absorption spectra of the close-form NP (CF) and open-form NP (OF) in THF solution. (c) Multicycle switching of NP upon alternating ON/OFF of UV (365 nm) and Vis (470 nm) irradiation. (d) Evolution of fluorescence intensity of the nanosensors upon UV activation at different target GSH concentrations (0, 13, 25, 50, 100, 200, 500, 1000 μM).</small>
@@ -15,7 +15,7 @@ author_profile: true
 Photochromic molecules as sensing component have the advantage of providing more recognition sites and sensing information. Based on photoswitchable naphthopyrans (NP), we developed a photoactive GSH nanosenor and a probe for induction of intracellular reductive stress. The principle of the GSH nanosenor is shown in Figure 1a. Photoswitch-mediated fluorescence resonance energy transfer (FRET) strongly occurs between open-form NP and signal fluorophores inside the nanoparticle. The nucleophilic GSH selectively undergo Michael addition reaction with open-form NP and results in fluorescence turn-on upon UV irradiation. This nanosensor has reversible response to GSH with 0-1 mM concentration range. The response to GSH was found to be highly selective over a range of ROS, RNS, RSS, and common biological anions.
 
 <div style="text-align: center;">
-    <img src="/images/image1.1.png" alt="图片" width="80%" height="auto">
+    <img src="/images/image1.1.png" alt="图片" width="50%" height="auto">
 </div>
 
 <small>Fig 2. (a) The photoactivatable probe. (b) Fluorescence emission spectra of probe before (black line) and after (red line) reacts with 1 mM GSH in DMSO-H2O. (c) Evolution of absorbance at λmax of the probe upon UV activation at different target GSH concentrations (0, 20, 50, 100, 200, 500, 1000 μM). (d) Confocal laser scanning microscopy (CLSM) imaging of RAW 264.7 cells labeled with/without the probe and dihydroethidium before and after stimulated by UV irradiation for 3 min.</small>
@@ -25,7 +25,7 @@ Exhausting intracellular GSH produces excessively reducing environments resultin
 
 ## Hemithioindigo with Switchable Fluorescence and Basicity
 <div style="text-align: center;">
-    <img src="/images/image2.png" alt="图片" width="80%" height="auto">
+    <img src="/images/image2.png" alt="图片" width="50%" height="auto">
 </div>
 
 <small>Fig 3. (a) The proton-coupled photoswitching of HTI. (b) Absorption spectra and the color of different forms of HTI in toluene. (c) Absorption spectra and the color of different forms of protonated HTI in toluene. (d) Fluorescence spectra of HTI in different forms in toluene. (e) Time-lapse CLSM images of a single HTI stained HeLa cell upon switching the 488 nm laser on and off.</small>
@@ -35,7 +35,7 @@ Photoswitchable hemithioindigos (HTI) have advantage of absorbing in the visible
 
 ## Ion-Selective Nanosensors Based on Aggregation-Caused Quenching
 <div style="text-align: center;">
-    <img src="/images/image3.png" alt="图片" width="80%" height="auto">
+    <img src="/images/image3.png" alt="图片" width="50%" height="auto">
 </div>
 
 <small>Fig 4. (a) Schematic illustration of the ion-selective nanospheres and the sensing principle. (b) K+ responses of the potassium nanospheres in different pH values.</small>
@@ -44,7 +44,7 @@ A pH-independent sensing principle based on nanospheres with ionophores was esta
 
 ## Photoacids for subcellular pH and temperature correlated fluorescence sensing
 <div style="text-align: center;">
-    <img src="/images/image4.png" alt="图片" width="80%" height="auto">
+    <img src="/images/image4.png" alt="图片" width="50%" height="auto">
 </div>
 
 <small>Fig 5. (a) Schematic illustration of the pH correlated photoswitching reaction of PA-allyl. (b) UV-Vis absorbance spectra of 0.3 mM of PA-allyl in universal buffer solutions adjusted to different pH values. (c) Monitoring the thermal relaxation of PA-allyl at 10-50 ℃.</small>
